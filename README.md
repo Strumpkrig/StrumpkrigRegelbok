@@ -26,8 +26,8 @@ Spelarna i ett lag ska ha en enhetlig tävlingsdräkt som tydligt skiljer sig fr
 ## 4. Troféerna
 En trofé är något det ena laget ska ta av det andra laget och föra till sin bas. Det underlättar om de två lagens troféer inte är identiska. En poäng ges till det lag som har:
 
-a. båda troféerna vid sin bas. 
-b. motståndartrofén vid sin bas.
+1. båda troféerna vid sin bas. 
+2. motståndartrofén vid sin bas.
 
 När detta inträffar ges en signal och lagen byter planhalva, vartefter troféerna ställs tillbaka på vardera bas. Matchvinnare är det laget som har flest poäng vid matchtidens slut.
 
@@ -44,13 +44,8 @@ Ingen del av kroppen är fri, det spelar ingen roll om du tar lyra.
 ### Om du blir träffad
 En straffrunda är anordnad av arrangörerna så att båda lagen har lika lång straffrunda. Det finns två typer av straffrundor.
 
-
-1. Straffrunda
-
-  En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
-2. Fängelse
-
-  En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
+1. Straffrunda - En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
+2. Fängelse - En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
 
 ## 6.	Vem vinner?
 Beroende på antal deltagande lag koras det vinnande laget på olika sätt.
