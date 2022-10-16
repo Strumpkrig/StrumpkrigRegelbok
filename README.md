@@ -45,27 +45,27 @@ Ingen del av kroppen är fri, det spelar ingen roll om du tar lyra.
 En straffrunda är anordnad av arrangörerna så att båda lagen har lika lång straffrunda. Det finns två typer av straffrundor.
 
 
-a) Straffrunda
-En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
-b) Fängelse
-En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
+1. Straffrunda
+  - En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
+2. Fängelse
+  - En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
+
 ## 6.	Vem vinner?
 Beroende på antal deltagande lag koras det vinnande laget på olika sätt.
-
-a)	Gruppspel (många lag)
-
-b)	 Utan gruppspel (få lag)
+ 1. Gruppspel (många lag)
+2.	 Utan gruppspel (få lag)
 
 Poäng i tabell
 Oavgjord match ger 1 poäng till respektive lag. Matchvinst ger 3 poäng till det vinnande laget och 0 poäng till det förlorande laget.
 Oavgjort efter gruppspelet:
 Om två lag står på samma poäng när gruppspelet är avgjort så gäller följande för att rangordna:
-1)	poäng i inbördes möten.
-2)	antal plockade troféer mellan inblandade lag.
-3)	antal förlorade troféer mellan inblandade lag.
-4)	antal plockade troféer jämfört med alla lag i gruppen.
-5)	antal förlorade troféer jämfört med alla lag i gruppen.
-6)	lottning
+1. poäng i inbördes möten.
+2. antal plockade troféer mellan inblandade lag.
+3. antal förlorade troféer mellan inblandade lag.
+4. antal plockade troféer jämfört med alla lag i gruppen.
+5. antal förlorade troféer jämfört med alla lag i gruppen.
+6. lottning
+
 ## 7.	Förbud
 Under pågående match är det förbjudet att: 
 - Ändra banans upplägg 
@@ -77,5 +77,5 @@ Under pågående match är det förbjudet att:
   - Bakom saker/hinder
   - Under/i hinder
 - Beroende på banans utformning och upplägg är ytterskor:
-  a.	Obligatoriska (om straffvarvet är utomhus)
-  b.	Förbjudna (om straffvarvet är inomhus)
+  1. Obligatoriska (om straffvarvet är utomhus)
+  2. Förbjudna (om straffvarvet är inomhus)
