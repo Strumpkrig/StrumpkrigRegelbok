@@ -53,7 +53,9 @@ Beroende på antal deltagande lag koras det vinnande laget på olika sätt.
 2. Utan gruppspel (få lag)
 
 ### Poäng i tabell
-Oavgjord match ger 1 poäng till respektive lag. Matchvinst ger 3 poäng till det vinnande laget och 0 poäng till det förlorande laget.
+Oavgjord match ger 1 poäng till respektive lag. 
+
+Matchvinst ger 3 poäng till det vinnande laget och 0 poäng till det förlorande laget.
 
 Oavgjort efter gruppspelet:
 
