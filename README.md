@@ -48,14 +48,14 @@
         3. Skulle det eftersuden death vara lika så slumpar spelledningen en vinnare.
 ## 8. Förbud - Under pågående match är det förbjudet att:
 1. Ändra banans upplägg
-    1. Flytta hinder och skydd
-    2. Öppna stängda dörrar
-    3. Stänga öppna dörrar
+    - Flytta hinder och skydd
+    - Öppna stängda dörrar
+    - Stänga öppna dörrar
 2. Byta lag (hoppa över till ett motståndarlag)
 3. Gömma trofén, exempelvis
-    1. I kläder
-    2. Bakom saker/hinder
-    3. Under/i hinder
+    - I kläder
+    - Bakom saker/hinder
+    - Under/i hinder
 4. Beroende på banans utformning och upplägg är ytterskor(välj ett av alternativen nedan):
     1. Obligatoriska (ex. om straffvarvet är utomhus)
     2. Förbjudna (ex. om straffvarvet är inomhus)
