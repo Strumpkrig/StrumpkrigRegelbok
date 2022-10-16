@@ -49,10 +49,13 @@ a) Straffrunda
 En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
 b) Fängelse
 En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
-6.	Vem vinner?
+## 6.	Vem vinner?
 Beroende på antal deltagande lag koras det vinnande laget på olika sätt.
+
 a)	Gruppspel (många lag)
+
 b)	 Utan gruppspel (få lag)
+
 Poäng i tabell
 Oavgjord match ger 1 poäng till respektive lag. Matchvinst ger 3 poäng till det vinnande laget och 0 poäng till det förlorande laget.
 Oavgjort efter gruppspelet:
@@ -63,16 +66,16 @@ Om två lag står på samma poäng när gruppspelet är avgjort så gäller föl
 4)	antal plockade troféer jämfört med alla lag i gruppen.
 5)	antal förlorade troféer jämfört med alla lag i gruppen.
 6)	lottning
-7.	Förbud
+## 7.	Förbud
 Under pågående match är det förbjudet att: 
-•	Ändra banans upplägg 
-•	Flytta hinder och skydd 
-•	Öppna stängda dörrar   
-•	Byta lag (hoppa över till ett motståndarlag) 
-•	Gömma trofén, exempelvis 
-•	I kläder
-•	Bakom saker/hinder
-•	Under/i hinder
-•	Beroende på banans utformning och upplägg är ytterskor:
-a)	Obligatoriska (om straffvarvet är utomhus)
-b)	Förbjudna (om straffvarvet är inomhus)
+- Ändra banans upplägg 
+- Flytta hinder och skydd 
+- Öppna stängda dörrar   
+- Byta lag (hoppa över till ett motståndarlag) 
+- Gömma trofén, exempelvis 
+  - I kläder
+  - Bakom saker/hinder
+  - Under/i hinder
+- Beroende på banans utformning och upplägg är ytterskor:
+  a.	Obligatoriska (om straffvarvet är utomhus)
+  b.	Förbjudna (om straffvarvet är inomhus)
