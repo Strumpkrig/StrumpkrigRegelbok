@@ -54,13 +54,16 @@ En straffrunda är anordnad av arrangörerna så att båda lagen har lika lång 
 
 ## 6.	Vem vinner?
 Beroende på antal deltagande lag koras det vinnande laget på olika sätt.
- 1. Gruppspel (många lag)
-2.	 Utan gruppspel (få lag)
+1. Gruppspel (många lag)
+2. Utan gruppspel (få lag)
 
-Poäng i tabell
+### Poäng i tabell
 Oavgjord match ger 1 poäng till respektive lag. Matchvinst ger 3 poäng till det vinnande laget och 0 poäng till det förlorande laget.
+
 Oavgjort efter gruppspelet:
+
 Om två lag står på samma poäng när gruppspelet är avgjort så gäller följande för att rangordna:
+
 1. poäng i inbördes möten.
 2. antal plockade troféer mellan inblandade lag.
 3. antal förlorade troféer mellan inblandade lag.
