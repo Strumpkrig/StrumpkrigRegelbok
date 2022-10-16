@@ -46,8 +46,10 @@ En straffrunda är anordnad av arrangörerna så att båda lagen har lika lång 
 
 
 1. Straffrunda
+
   En straffrunda startar lämpligtvis i mitten av banan och slutar vid basen. Straffrundan bör inte ta längre tid än 30 sekunder att springa. 
 2. Fängelse
+
   En straffrunda kan vara ett eller två fängelser, då är man fast i fängelset under en tid som inte bör vara längre än 30 sekunder. 
 
 ## 6.	Vem vinner?
