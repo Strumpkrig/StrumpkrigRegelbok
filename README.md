@@ -6,24 +6,24 @@ Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillg�
 
 Märk väl att det är Fair Play som gäller. Ingen övervakning av spelplanen sker, så det bygger på att du som deltagare är en schyst medspelare. 
 
-1. Spelplanen
+## 1. Spelplanen
 Spelplanen består av två baser, en för vardera lag. Baserna bör placeras så att det finns minst två ingångar till dessa, samt att avståndet mellan baserna är minst 20 meter. Vidare bör det finnas en naturlig mittpunkt där spelledaren kan placeras, avstånden till denna punkt bör vara ungefär lika stort från vardera basen.
 
 Beroende på banans utformning kan ett eller flera hinder ställas upp
 
-2. Speltiden, start- och slutsignal
+## 2. Speltiden, start- och slutsignal
 Speltiden bestäms av spelledningen före matchstart. Rekommenderad tid för en match är 10-15 minuter.
 
 Start- och slutsignal ges av spelledaren, vanligtvis genom att musik sätts igång/stängs av så att båda lagen hör den.
 
 Observera att matchtiden fortsätter att gå medan lagen byter planhalva i samband med poängtagning.
 
-3. Lagen
+## 3. Lagen
 Antalet spelare i ett lag bestäms av spelledningen före matchstart, rekommenderat antal är mellan 5 och 20 lagmedlemmar.
 
 Spelarna i ett lag ska ha en enhetlig tävlingsdräkt som tydligt skiljer sig från motståndarlagets.
 
-4. Troféerna
+## 4. Troféerna
 En trofé är något det ena laget ska ta av det andra laget och föra till sin bas. Det underlättar om de två lagens troféer inte är identiska. En poäng ges till det lag som har:
 
 a. båda troféerna vid sin bas. 
@@ -31,14 +31,17 @@ b. motståndartrofén vid sin bas.
 
 När detta inträffar ges en signal och lagen byter planhalva, vartefter troféerna ställs tillbaka på vardera bas. Matchvinnare är det laget som har flest poäng vid matchtidens slut.
 
-5.	Strumporna
+## 5.	Strumporna
 En strumpa i spelet är en eller två sportstrumpor ihoprullad till en boll – en strumpboll. 
+
 Under pågående match får man ha endast ett ting i vardera hand. Exempelvis strumpa-strumpa, strumpa-trofé, trofé-strumpa eller trofé-trofé.
+
 Man får endast använda strumpor som hör till spelet, alltså inte dem man har haft på fötterna, då det räknas som biologiskt vapen.  En strumpboll som rullat upp sig får rullas ihop till en boll igen. 
-Att bli träffad
+
+### Att bli träffad
 Blir man träffad av en strumpa släpper man allt man har i händerna rakt ner och springer en straffrunda. 
 Ingen del av kroppen är fri, det spelar ingen roll om du tar lyra. 
-Om du blir träffad
+### Om du blir träffad
 En straffrunda är anordnad av arrangörerna så att båda lagen har lika lång straffrunda. Det finns två typer av straffrundor.
 
 
