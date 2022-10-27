@@ -1,9 +1,8 @@
-# :socks:Regler (Version 2.1)
+# :socks:Regler (Version 2.2)
 
 ## :socks:1. Inledning
 1. Strumpkrig är en blandning av laserdome och Capture the flag. Man ska ta motståndarlagets trofé och ta den till sin bas, det man har som vapen är strumpor.
-2. Nedan följer de regler som utarbetats för Strumpkrig. Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillgå och antal personer som deltar , Exempel på detta syns under § 5 som rör val av spelupplägg eller § 7 vad gäller poängtagning.
-3. Det finns också en del valjmöjligheter som man behöver välja mellan när man skall ha strumpkrig. Man behöver välja vilka regler man spelar med.
+2. Nedan följer de regler som utarbetats för Strumpkrig. Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillgå och antal personer som deltar , Exempel på detta syns under § 5 som rör val av spelupplägg eller § 7 vad gäller poängtagning. Det finns också en del valjmöjligheter som man behöver välja mellan när man skall ha strumpkrig. Man behöver välja vilka regler man spelar med. Se del 9 "Vilka val behöver man göra inför ett Strumpkrig?"
 4. Märk väl att det är Fair Play som gäller. Ingen övervakning av spelplanen sker, så det bygger på att du som deltagare är en schyst medspelare.
 ## :socks:2. Spelplanen
 1. Spelplanen består av två baser, en för vardera lag. Baserna bör placeras så att det finns minst två ingångar till dessa, samt att avståndet mellan baserna är minst 20 meter. Vidare bör det finnas en naturlig mittpunkt där spelledaren kan placeras, avstånden till denna punkt bör vara ungefär lika stort från vardera basen.
@@ -61,3 +60,11 @@
 4. Beroende på banans utformning och upplägg är ytterskor(välj ett av alternativen nedan):
     1. Obligatoriska (ex. om straffvarvet är utomhus)
     2. Förbjudna (ex. om straffvarvet är inomhus)
+
+## :socks:9. Vilka val behöver man göra inför ett Strumpkrig?
+1. Nedan listar vi vilka val man behöver göra inför ett strumprkig.
+2. 3.1 Speltid
+3. 4.1 Storlek på lag
+4. 5.1.1 eller 5.1.2 skall väljas, 1 eller båda trofferna i basen för vinst. Det normala är att man spelar med regel 5.1.1
+5. 6.5.1 eller 6.5.2 skall väljas, fängelse eller straffrunda.
+6. 7 Här skall ni välja om ni skall köra med gruppspel, slutspel eller båda samt hur många lag som  skall gå till slutspel.
