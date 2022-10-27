@@ -62,9 +62,9 @@
     2. Förbjudna (ex. om straffvarvet är inomhus)
 
 ## :socks:9. Vilka val behöver man göra inför ett Strumpkrig?
-1. Nedan listar vi vilka val man behöver göra inför ett strumprkig.
-2. 3.1 Speltid
-3. 4.1 Storlek på lag
-4. 5.1.1 eller 5.1.2 skall väljas, 1 eller båda trofferna i basen för vinst. Det normala är att man spelar med regel 5.1.1
-5. 6.5.1 eller 6.5.2 skall väljas, fängelse eller straffrunda.
-6. 7 Här skall ni välja om ni skall köra med gruppspel, slutspel eller båda samt hur många lag som  skall gå till slutspel.
+Nedan listar vi vilka val man behöver göra inför ett strumprkig.
+- 3.1 Speltid
+- 4.1 Storlek på lag
+- 5.1.1 eller 5.1.2 skall väljas, 1 eller båda trofferna i basen för vinst. Det normala är att man spelar med regel 5.1.1
+- 6.5.1 eller 6.5.2 skall väljas, fängelse eller straffrunda.
+- 7 Här skall ni välja om ni skall köra med gruppspel, slutspel eller båda samt hur många lag som  skall gå till slutspel.
