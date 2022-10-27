@@ -68,3 +68,7 @@ Nedan listar vi vilka val man behöver göra inför ett strumprkig.
 - 5.1.1 eller 5.1.2 skall väljas, 1 eller båda trofferna i basen för vinst. Det normala är att man spelar med regel 5.1.1
 - 6.5.1 eller 6.5.2 skall väljas, fängelse eller straffrunda.
 - 7 Här skall ni välja om ni skall köra med gruppspel, slutspel eller båda samt hur många lag som  skall gå till slutspel.
+
+## :socks: Länkar!
+[Strumpkrig](https://strumpkrig.se)
+[Abrahamsbergskyrkans Ungdom](https://abraung.se)
