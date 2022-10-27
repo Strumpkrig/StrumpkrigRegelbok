@@ -1,9 +1,10 @@
 # Regler (Version 2.1)
 
 ## 1. Inledning
-1. Nedan följer de regler som utarbetats för Strumpkrig. Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillgå och antal personer som deltar , Exempel på detta syns under § 5 som rör val av spelupplägg eller § 7 vad gäller poängtagning.
-2. Det finns också en del valjmöjligheter som man behöver välja mellan när man skall ha strumpkrig. Man behöver välja vilka regler man spelar med.
-3. Märk väl att det är Fair Play som gäller. Ingen övervakning av spelplanen sker, så det bygger på att du som deltagare är en schyst medspelare.
+1. Strumpkrig är en blandning av laserdome och Capture the flag. Man ska ta motståndarlagets trofé och ta den till sin bas, det man har som vapen är strumpor.
+2. Nedan följer de regler som utarbetats för Strumpkrig. Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillgå och antal personer som deltar , Exempel på detta syns under § 5 som rör val av spelupplägg eller § 7 vad gäller poängtagning.
+3. Det finns också en del valjmöjligheter som man behöver välja mellan när man skall ha strumpkrig. Man behöver välja vilka regler man spelar med.
+4. Märk väl att det är Fair Play som gäller. Ingen övervakning av spelplanen sker, så det bygger på att du som deltagare är en schyst medspelare.
 ## 2. Spelplanen
 1. Spelplanen består av två baser, en för vardera lag. Baserna bör placeras så att det finns minst två ingångar till dessa, samt att avståndet mellan baserna är minst 20 meter. Vidare bör det finnas en naturlig mittpunkt där spelledaren kan placeras, avstånden till denna punkt bör vara ungefär lika stort från vardera basen.
 2. Beroende på banans utformning kan ett eller flera hinder ställas upp.
