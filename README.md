@@ -1,17 +1,5 @@
 # :socks:Regler (Version 2.2)
 
-
-[Inledning](# :socks:1. Inledning)
-Spelplanen
-Speltiden
-Lagen
-Troféerna
-Strumporna
-Vem vinner?
-Förbud
-Vilka val behöver man göra inför ett Strumpkrig
-Länkar
-
 ## :socks:1. Inledning
 1. Strumpkrig är en blandning av laserdome och Capture the flag. Man ska ta motståndarlagets trofé och ta den till sin bas, det man har som vapen är strumpor.
 2. Nedan följer de regler som utarbetats för Strumpkrig. Observera att reglerna bör anpassas efter de utrymmen och som Ni har att tillgå och antal personer som deltar , Exempel på detta syns under § 5 som rör val av spelupplägg eller § 7 vad gäller poängtagning. Det finns också en del valjmöjligheter som man behöver välja mellan när man skall ha strumpkrig. Man behöver välja vilka regler man spelar med. Se del 9 "Vilka val behöver man göra inför ett Strumpkrig?"
