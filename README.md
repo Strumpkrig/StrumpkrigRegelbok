@@ -4,11 +4,11 @@
 - [Spelplanen](#socks2-spelplanen)
 - [Speltiden](#socks3-Speltiden)
 - [Lagen](#socks4-Lagen)
-- Troféerna
-- Strumporna
-- Vem vinner?
-- Förbud
-- Vilka val behöver man göra inför ett Strumpkrig
+- [Troféerna](#socks5-troféerna)
+- [Strumporna](#socks6-strumporna)
+- [Vem vinner?](#socks7-vem-vinner)
+- [Förbud](#socks8-förbud---under-pågående-match-är-det-förbjudet-att)
+- [Vilka val behöver man göra inför ett Strumpkrig](#socks9-vilka-val-behöver-man-göra-inför-ett-strumpkrig)
 - [Länkar](#socks-länkar)
 
 ## :socks:1. Inledning
