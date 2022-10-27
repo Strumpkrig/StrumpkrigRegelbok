@@ -71,4 +71,5 @@ Nedan listar vi vilka val man behöver göra inför ett strumprkig.
 
 ## :socks: Länkar!
 [Strumpkrig](https://strumpkrig.se)
+
 [Abrahamsbergskyrkans Ungdom](https://abraung.se)
